@@ -1,6 +1,6 @@
-# haeger-et-al-working-memory-for-faces
+# haeger-et-al-face-processing-in-developmental-prosopagnosia
 
-This repository contains supplementary material for Haeger, Pouzat, Luecken, N'Diaye, Elger, Kennerknecht, Axmacher and Dinkelacker (2019) manuscript: "Working Memory for Faces in Developmental Prosopagnosia: Altered Neural Representations in the Fusiform Face Area".
+This repository contains supplementary material for Haeger, Pouzat, Luecken, N'Diaye, Elger, Kennerknecht, Axmacher and Dinkelacker (2021) manuscript: " Face Processing in Developmental Prosopagnosia: Altered Neural Representations in the Fusiform Face Area".
 
 Four files in addition to the present `README` are included:
 
